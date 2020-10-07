@@ -1,8 +1,6 @@
 <h1 align="center"> Hi there, I'm Anant Chauhan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anant1711" alt="@infinity" /> </p>
-![]<img src="https://github.com/Anant1711/Anant1711/blob/main/icon/anantchauhan.png">
+<img src="https://github.com/Anant1711/Anant1711/blob/main/icon/anantchauhan.png">
 <p align="center"> <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br> </p>
 
 <h1 align="center"> I'm a Student</h1>
