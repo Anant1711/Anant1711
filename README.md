@@ -2,7 +2,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anant1711" alt="@infinity" /> </p>
-![]<p align="left"> <script src="https://tryhackme.com/badge/107760"></script> </p>
+![anantchauhan]<p align="left"> <script src="https://tryhackme.com/badge/107760"></script> </p>
 ![]<img src="https://tryhackme-badges.s3.amazonaws.com/anantchauhan.png" alt="TryHackMe">
 <p align="center"> <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br> </p>
 
