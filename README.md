@@ -3,7 +3,7 @@
 <img src="https://github.com/Anant1711/Anant1711/blob/main/icon/anantchauhan.png">
 <p align="center"> <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br> </p>
 
-<h1 align="center"> I'm a Student</h1>
+<h2 align="center"> I'm a Student</ha>
 
 <h1 align="center"> 🔭 I’m currently working on Online shop </h1>
 
