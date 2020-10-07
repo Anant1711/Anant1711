@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center"> Hi there, I'm Anant Chauhan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<!--
-**Anant1711/Anant1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anant1711" alt="@infinity" /> </p>
+<p align="center"> <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br> </p>
 
-Here are some ideas to get you started:
+<h1 align="center"> I'm a Student</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center"> 🔭 I’m currently working on Online shop </h1>
+
+<h1 align="center"> 🌱 I’m currently learning </h1>
+
+<h1 align="center"> 📫 How to reach me: </h1>
+<p align="center"><br> <a href="https://twitter.com/_Anant_chauhan"><img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/twitter.svg" /></a>
+&nbsp; &nbsp; <a href="https://www.medium.com/@infinity_/"> <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/medium.svg" > </a> &nbsp; &nbsp;
+<a href="https://discord.com/channels/@infinity_#9175/"> <img height="44" width="44" src="https://unpkg.com/simple-icons@3.4.0/icons/discord.svg" 
+
+
+
+</p>
+
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Anant1711=true alt=infinity /> </p>
+
+
