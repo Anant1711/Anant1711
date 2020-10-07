@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anant1711" alt="@infinity" /> </p>
 <img src="https://github.com/Anant1711/Anant1711/blob/main/icon/anantchauhan.png">
 <p align="center"> <br><img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="450px"><br></p>
-<p align="center"> <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br> </p>
+<!-- <p align="center"> <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br> </p>
 
 <h2 align="center"> I'm a Student</ha>
 
