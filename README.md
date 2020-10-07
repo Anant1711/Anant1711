@@ -1,7 +1,8 @@
 <h1 align="center"> Hi there, I'm Anant Chauhan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<script src="https://tryhackme.com/badge/107760"></script>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anant1711" alt="@infinity" /> </p>
+<p align="left"> <script src="https://tryhackme.com/badge/107760"></script> </p>
 <p align="center"> <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br> </p>
 
 <h1 align="center"> I'm a Student</h1>
