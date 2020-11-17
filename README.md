@@ -3,7 +3,7 @@
 <img src="https://github.com/Anant1711/Anant1711/blob/main/icon/anantchauhan.png">
 <p align="center"> <br><img src="https://i.imgur.com/8MupZHY.gif" width="450px"><br></p>
 
-<h1 align="center"> 🌱 I'm a Student, Pentesting Learner, CTF-Player, and currently doing Computer Science and Engineering with specialisation in Cyber Security and Digital Forensics at Vellore Institute Of Technology 🌱</h1>
+<h1 align="center"> 🌱 I'm a Student, Pentesting Learner, CTF-Player, and currently pursuing Computer Science and Engineering with specialisation in Cyber Security and Digital Forensics at Vellore Institute Of Technology 🌱</h1>
 
 <h1 align="center"> 📫 Connect with me: </h1>
 <p align="center"><br> <a href="https://twitter.com/_Anant_chauhan"><img height="44" width="44" src="https://github.com/Anant1711/Anant1711/blob/main/icon/3694468081530103327.svg" /></a>
